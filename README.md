@@ -1,2 +1,3 @@
 # python-ml
-A python implementation of Andrew Ng's machine learning course.
+
+A series of learning tasks to help understand more about machine learning.
